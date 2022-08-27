@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Visit the project website here: https://pham-tracy.github.io/password-generator/
+Visit the project website here:
 
 ![Password Generator Application Screenshot](/Develop/Images/Password_generator_screenshot.png)
 
